@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "./lib",
+        "declaration": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "lib": ["es6"]
+    },
+    "include": ["./src/**/*"]
+}
